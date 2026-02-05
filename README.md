@@ -226,6 +226,8 @@ Data Ingestion ➔ Data Validation ➔ Data Transformation
 
 <img width="1920" height="1080" alt="Screenshot (1087)" src="https://github.com/user-attachments/assets/97e1173b-d6b3-4c26-94e4-4fed03e3e947" />
 <img width="1920" height="1080" alt="Screenshot (1086)" src="https://github.com/user-attachments/assets/c574370c-bd87-40cd-8167-f686d567b302" />
+<img width="1920" height="1080" alt="Screenshot (1075)" src="https://github.com/user-attachments/assets/f8695000-5200-4d15-9e23-13d6b2d59898" />
+
 
 <img width="1920" height="1080" alt="Screenshot (1085)" src="https://github.com/user-attachments/assets/176975a2-aefd-4c22-80ea-c2fe57d084f1" />
 <img width="1920" height="1080" alt="Screenshot (1076)" src="https://github.com/user-attachments/assets/e16400c8-5289-4250-8a33-7330d1c9e90a" />
