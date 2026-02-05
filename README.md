@@ -5,28 +5,8 @@ This repository demonstrates a complete **MLOps pipeline** for managing, process
 
 It highlights **end-to-end workflows**, including **data ingestion, validation, transformation, model training, evaluation, deployment, and CI/CD automation** using modern tools and cloud services.
 
----
-
-## 📌 Table of Contents
-1. [Project Overview](#project-overview)
-2. [Project Structure](#project-structure)
-3. [Setup & Installation](#setup--installation)
-4. [Data Management with MongoDB](#data-management-with-mongodb)
-5. [Logging, Exception Handling & EDA](#logging-exception-handling--eda)
-6. [Data Ingestion Pipeline](#data-ingestion-pipeline)
-7. [Data Validation, Transformation & Model Training](#data-validation-transformation--model-training)
-8. [AWS Setup for Model Deployment](#aws-setup-for-model-deployment)
-9. [Model Evaluation, Model Pusher & Prediction Pipeline](#model-evaluation-model-pusher--prediction-pipeline)
-10. [CI/CD Automation](#cicd-automation)
-11. [Project Workflow Summary](#project-workflow-summary)
-12. [Additional Resources](#additional-resources)
-13. [Connect](#connect)
-14. [License](#license)
-
----
-
 ## 📁 Project Overview
-The **Vehicle Insurance Data Pipeline** is designed to automate the workflow of a machine learning project:
+The **Vehicle Insurance Prediction** is designed to automate the workflow of a machine learning project:
 
 - **Data Ingestion:** Fetch data from MongoDB.
 - **Data Validation & Transformation:** Ensure data quality and create features.
@@ -234,7 +214,7 @@ Data Ingestion ➔ Data Validation ➔ Data Transformation
 
 ---
 
-```
+
 
 
 <img width="1920" height="1080" alt="Screenshot (1093)" src="https://github.com/user-attachments/assets/4e0e4eb1-7a08-43b1-8309-8643cfefd8fb" />
