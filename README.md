@@ -13,7 +13,8 @@ My very first project
 <img width="1920" height="1080" alt="Screenshot (1086)" src="https://github.com/user-attachments/assets/c574370c-bd87-40cd-8167-f686d567b302" />
 
 <img width="1920" height="1080" alt="Screenshot (1085)" src="https://github.com/user-attachments/assets/176975a2-aefd-4c22-80ea-c2fe57d084f1" />
-<img width="1920" height="1080" alt="Screenshot (1089)" src="https://github.com/user-attachments/assets/b3d319a0-7c41-401f-965c-81bf424689c7" />
+<img width="1920" height="1080" alt="Screenshot (1076)" src="https://github.com/user-attachments/assets/e16400c8-5289-4250-8a33-7330d1c9e90a" />
+
 
 <img width="1920" height="1080" alt="Screenshot (1081)" src="https://github.com/user-attachments/assets/0a6d6c74-ba7d-486a-aa0a-4627d1f989ae" />
 <img width="1920" height="1080" alt="Screenshot (1089)" src="https://github.com/user-attachments/assets/70d0e97b-7973-4f41-b787-2cf596091dcb" />
